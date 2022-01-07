@@ -9,6 +9,8 @@
 2. Open folder
 3. Install packages with command
 ```
+npm install
+OR
 yarn install
 ```
 4.  Edit the file, putting your connections data
@@ -17,6 +19,8 @@ yarn install
 ```
 5.  And run the script with the command
 ```
+npm run start
+OR
 yarn run start
 ```
 
